@@ -1,0 +1,19 @@
+{
+  "keyword": "测试上传",
+  "timestamp": "2026-06-19 01:58:50",
+  "count": 2,
+  "items": [
+    {
+      "title": "测试商品1",
+      "price": "99",
+      "seller": "test",
+      "location": "上海"
+    },
+    {
+      "title": "测试商品2",
+      "price": "199",
+      "seller": "test2",
+      "location": "北京"
+    }
+  ]
+}
